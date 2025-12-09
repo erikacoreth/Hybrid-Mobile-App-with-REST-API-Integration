@@ -7,11 +7,13 @@
 React Native (Expo):
 
 [Build for iOS simulators .app](https://docs.expo.dev/build-reference/simulators/)
+
 [Build for Andriod .apk](https://docs.expo.dev/build-reference/apk/)
 
 Flutter:
 
 [Build for iOS](https://docs.flutter.dev/deployment/ios)
+
 [Build for Android](https://docs.flutter.dev/deployment/android)
 
 `flutter build ios --simulator`
